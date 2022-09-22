@@ -10,9 +10,7 @@ cd..
 cd CCC
 dir \Q C:\Windows > LIST.txt
 cd\
-pause
 del /S /Q TEST123
-pause
 rmdir/S /Q TEST123
 
 
